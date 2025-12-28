@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am an Artificial Intelligence and Data Science student with a deep fascination for the space sector. My goal is to leverage my foundation in Physics and Mathematics alongside my proficiency in Python, Java, and SQL to contribute to the next generation of 'NewSpace' technologies. I am currently focused on mastering professional software engineering workflows and exploring how AI can optimize satellite data analysis and orbital mechanics."
+I am an Artificial Intelligence and Data Science student with a deep fascination for the space sector. My goal is to leverage my foundation in Physics and Mathematics alongside my proficiency in Python, Java, and SQL to contribute to the next generation of 'NewSpace' technologies. I am currently focused on mastering professional software engineering workflows and exploring how AI can optimize satellite data analysis and orbital mechanics.
 
 
 ## 🌐 Socials:
